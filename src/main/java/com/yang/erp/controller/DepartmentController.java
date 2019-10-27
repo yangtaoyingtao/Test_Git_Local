@@ -12,7 +12,7 @@ public class DepartmentController {
 	public String findDeptById(@PathVariable("id") int id,Model model){
 		
 		System.out.println(id);
-		
+		System.out.println("hot fix............");
 		
 		return "updateDepartment";
 	}
