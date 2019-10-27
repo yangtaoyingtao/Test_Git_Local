@@ -13,7 +13,7 @@ public class DepartmentController {
 		
 		System.out.println(id);
 		System.out.println("hot fix............");
-		
+		System.out.println("hot fix2............");
 		return "updateDepartment";
 	}
 	
